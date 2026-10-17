@@ -4,7 +4,7 @@ const Pricing = () => {
   const [billingCycle, setBillingCycle] = useState('monthly');
 
   return (
-    <section className="pricing-container">
+    <section className="pricing-container" id="pricing">
       {/* Header Section */}
       <div className="pricing-header">
         <span className="pricing-subheading">INVESTMENT TIERS</span>

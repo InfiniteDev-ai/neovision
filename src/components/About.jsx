@@ -2,7 +2,7 @@
 
 const About = () => {
   return (
-    <section className="about-container">
+    <section className="about-container" id="about">
       <div className="about-content">
         
         <div className="about-left">

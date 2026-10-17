@@ -2,7 +2,7 @@
 
 const Home = () => {
   return (
-    <section className="hero-container">
+    <section className="hero-container" id="home">
       <div className="bg-diagonal-line"></div>
       <div className="bg-bottom-bar"></div>
 

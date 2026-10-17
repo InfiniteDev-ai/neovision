@@ -34,6 +34,15 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Offset anchor targets so the fixed navbar (75px) doesn't cover section tops */
+#home,
+#about,
+#services,
+#pricing,
+#contact {
+  scroll-margin-top: 85px;
+}
+
 @supports (scrollbar-width: thin) {
   * {
     scrollbar-width: thin;

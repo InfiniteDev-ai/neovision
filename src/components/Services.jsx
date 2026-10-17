@@ -66,7 +66,7 @@ const Services = () => {
   ];
 
   return (
-    <section className="services-container">
+    <section className="services-container" id="services">
       {/* Header with Navigation Controls */}
       <div className="services-header">
         <h2 className="services-title">OUR SERVICE</h2>
