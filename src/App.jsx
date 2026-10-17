@@ -12,10 +12,10 @@ function App() {
   return(
     <>
     <Navbar />
-    <Pricing />
     <Home />
     <About />
     <Services />
+    <Pricing />
     <Limitless />
     <Voices />
     <Future />
