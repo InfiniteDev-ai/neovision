@@ -35,7 +35,7 @@ const Footer = () => {
             <div className="contact-group">
               <h4 className="col-heading">Address</h4>
               <p className="footer-static-text">
-                NeoVision Technologies 123<br />
+                NeoVision Technologies 1234<br />
                 FutureTech Blvd
               </p>
             </div>
